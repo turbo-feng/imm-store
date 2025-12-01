@@ -4,7 +4,7 @@
 
 | 软件名称                  | 简介 / 功能描述                        | 来源 / 项目地址                                                                           |
 | --------------------- | -------------------------------- | ----------------------------------------------------------------------------------- |
-| luci-app-store        | iStore应用商店             | [linkease/luci-app-store](https://github.com/linkease/istore)                 |
+| luci-app-store        | iStore应用商店(0.1.30-1)             | [linkease/luci-app-store](https://github.com/linkease/istore)                 |
 | luci-app-amlogic             | 晶晨宝盒(仅限ARM-64平台) | [ophub/luci-app-amlogic](https://github.com/ophub/luci-app-amlogic)                       |
 | luci-app-adguardhome  | 本地 DNS 去广告解决方案                   | [AdGuardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)               |
 | luci-app-advancedplus | 高级设置                   | [sirpdboy/luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)                                                                 |
@@ -25,7 +25,8 @@
 | luci-app-taskplan             | 任务计划 |                        |
 | luci-app-easytier             | 组网 | https://github.com/EasyTier/luci-app-easytier                       |
 | luci-app-unishare             | 统一文件共享 | webdav共享                      |
-
+| luci-app-uninstall             | 高级卸载1.1.5 | [用于彻底卸载插件 点这里出处](https://www.bilibili.com/video/BV1dK1xBVEHF)                     |
+| luci-theme-aurora      | 极光主题 0.8                 | [eamonxg/luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora)                 |
 ## 如何集成到AutoBuildImmortalWrt
 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
 ## ❤️其它GitHub Action项目推荐🌟 （建议收藏）⬇️
