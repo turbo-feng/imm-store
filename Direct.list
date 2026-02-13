@@ -2,9 +2,13 @@
 
 #turbo常用域名
 # 域名后缀匹配
-DOMAIN-SUFFIX,api-ipv4.ip.sb
-DOMAIN-SUFFIX,api.ipify.org
-DOMAIN-SUFFIX,cloudflare-dns.com
+#DOMAIN-SUFFIX,api-ipv4.ip.sb
+#DOMAIN-SUFFIX,api.ipify.org
+#DOMAIN-SUFFIX,cloudflare-dns.com
+
+DOMAIN-KEYWORD,cloudflare,DIRECT
+DOMAIN-SUFFIX,argotunnel.com,DIRECT
+DOMAIN-SUFFIX,cftunnel.com,DIRECT
 
 
 DOMAIN-SUFFIX,time.windows.com
